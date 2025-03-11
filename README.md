@@ -1,1 +1,1 @@
-# fresh-daily-api
+# pantry-sync-api
